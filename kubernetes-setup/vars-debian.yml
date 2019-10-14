@@ -1,0 +1,5 @@
+---
+docker_version: 5:18.09.9~3-0~ubuntu-bionic
+k8s_master_ip: 10.30.50.10
+pod_network_cidr: 10.30.0.0/16
+
